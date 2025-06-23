@@ -1,6 +1,6 @@
 # Power BI - Práticas e Projetos (Data Science Academy)
 
-Este repositório contém arquivos de **datasets** e **dashboards** desenvolvidos como parte das atividades práticas do curso **"Power BI para Data Science"**, oferecido pela **Data Science Academy (DSA)**.
+Este repositório contém arquivos de **datasets** e **dashboards** desenvolvidos como parte das atividades práticas do curso **"Power BI para Business Intelligence & Data Science"**, oferecido pela **Data Science Academy (DSA)**.
 
 ## 📌 Objetivo
 
