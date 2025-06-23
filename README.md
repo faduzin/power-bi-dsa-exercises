@@ -18,7 +18,7 @@ O foco é consolidar o aprendizado em **visualização de dados**, **modelagem**
 ## 📂 Estrutura do Repositório
 
 ```
-├── datasets/
+├── data/
 │   └── (Arquivos CSV, Excel, etc. usados nas análises)
 │
 ├── dashboards/
